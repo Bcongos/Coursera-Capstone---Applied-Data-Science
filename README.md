@@ -1,15 +1,15 @@
-# Coursera Capstone Curso de Ciancia de Datos Aplicada
-Proyecto Final Coursera de Ciencia de Datos Aplicada - Curso Capstone
+# Coursera Capstone - Applied Data Science Course
+Final Project - Coursera Applied Data Science Capstone Course
 
-### Introducción
-**Hello World:** Trabajo semana dos, con un print "Hola Mundo"
+### Introduction
 
-### Trabajo de Agrupación y Segmentación de Vecindarios en la Ciudad de Toronto, Canadá
-- **Postal Code:** Primer pregunta del trabajo de la semana tres. Web Scraping de tabla de postal codes de Toronto
-- **Coordenadas:** Segunda pregunta del trabajo de la semana tres. Agregar datos de latitud y longitud a la lista de códigos postales
-- **Clustering:** Tercera pregunta del trabajo de la semana tres. Análisis de agrupación y segmentacion de los barrios de Toronto, Canada
 
-### Batalla de los Vecindarios, Proyecto Final
-- **Definición del Problema:** Primer pregunta del trabajo de la semana cuatro. Definición del problema del proyecto final
-- **Definición de los Datos:** Segunda pregunta del trabajo de la semana cuatro. Definición de las fuentes de datos del proyecto final
-- **Proyecto Final:** Notebook del trabajo final con todo el desarrollo del proyecto aplicando un modelo de clustering
+### Neighborhood Clustering and Segmentation in Toronto, Canada
+- **Postal Code:** First question of the week three assignment. Web scraping of the Toronto postal codes table.
+- **Coordinates:** Second question of the week three assignment. Adding latitude and longitude data to the list of postal codes.
+- **Clustering:** Third question of the week three assignment. Clustering and segmentation analysis of Toronto neighborhoods.
+
+### Battle of Neighborhoods, Final Project
+- **Problem Definition:** First question of the week four assignment. Defining the problem for the final project.
+- **Data Definition:** Second question of the week four assignment. Defining the data sources for the final project.
+- **Final Project:** Notebook containing the complete development of the project, applying a clustering model.
